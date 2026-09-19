@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Script that displays IP addresses allocated to the machine
+hostname -I
